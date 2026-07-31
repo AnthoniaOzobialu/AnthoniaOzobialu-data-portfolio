@@ -4,7 +4,7 @@
 Customer churn directly impacts recurring revenue for telecom providers. This project identifies which customers are most likely to churn and why, enabling targeted retention strategies before customers leave.
 
 ## Data
-- Source: [insert Kaggle link here]
+- Source: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 - ~7,032 customers, features covering demographics, services, contract, billing
 - Target: Churn (Yes/No)
 
