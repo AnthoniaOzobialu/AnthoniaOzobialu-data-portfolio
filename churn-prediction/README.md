@@ -29,5 +29,5 @@ Customer churn directly impacts recurring revenue for telecom providers. This pr
 1. Clone this repo
 2. Navigate to the `churn-prediction` folder
 3. Install dependencies: `pip install -r requirements.txt`
-4. Run the script
+4. Run the script: `python src/Tele-customer-churn.py`
 5. Open `powerbi/TELCO_CHURN_PROJECT.pbix` in Power BI Desktop to view the dashboard
