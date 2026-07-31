@@ -13,7 +13,7 @@ from xgboost import plot_importance
 from sklearn.metrics import roc_curve
 
 #Load the dataset
-df = pd.read_csv(r'c:\Users\user\Downloads\WA_Fn-UseC_-Telco-Customer-Churn.csv')
+df = pd.read_csv('data/WA_Fn-UseC_-Telco-Customer-Churn.csv')
 
 #Explore
 print(df.head()) # first 5 rows
@@ -189,4 +189,4 @@ plt.title('ROC Curve')
 plt.legend()
 plt.show()
 
-df.to_csv('telco_churn_cleaned.csv', index = False)
+df.to_csv('data/telco_churn_cleaned.csv', index = False)
