@@ -1,4 +1,5 @@
 # Telco Customer Churn Prediction
+📄 [Read the 2-page case study](./Telco_Churn_Case_Study.pdf)
 
 ## Business Problem
 Customer churn directly impacts recurring revenue for telecom providers. This project identifies which customers are most likely to churn and why, enabling targeted retention strategies before customers leave.
