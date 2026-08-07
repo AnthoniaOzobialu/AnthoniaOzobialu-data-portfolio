@@ -8,11 +8,11 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load Datasets
-home= pd.read_csv(r"C:\Users\user\Downloads\home_page_table.csv")
-search = pd.read_csv(r"C:\Users\user\Downloads\search_page_table.csv")
-payment = pd.read_csv(r"C:\Users\user\Downloads\payment_page_table.csv")
-confirm = pd.read_csv(r"C:\Users\user\Downloads\payment_confirmation_table.csv")
-users  = pd.read_csv(r"C:\Users\user\Downloads\user_table.csv")
+home= pd.read_csv(r"data\home_page_table.csv")
+search = pd.read_csv(r"data\search_page_table.csv")
+payment = pd.read_csv(r"data\payment_page_table.csv")
+confirm = pd.read_csv(r"data\payment_confirmation_table.csv")
+users  = pd.read_csv(r"data\user_table.csv")
 
 # Convert Date Column
 users['date'] = pd.to_datetime(users['date'])
