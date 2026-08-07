@@ -103,16 +103,15 @@ user-onboarding-funnel-analysis/
 │   ├── payment_confirmation_table.csv
 │   └── user_table.csv
 │
-├── notebooks/
-│   └── funnel_analysis.ipynb
+├── powerbi/
+│   └── sales_funnel.pbix
 │
-├── dashboard/
-│   └── user_onboarding_funnel.pbix
+├── src/
+│   └── User_funnel_drop_off_analysis/py
 │
-├── images/
-│   └── dashboard_screenshot.png
+├── README.md
 │
-└── README.md
+└── User_Onboarding_Funnel_Analysis_Case_Study.pdf
 ```
 
 ---
