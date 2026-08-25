@@ -47,6 +47,7 @@ statistical result summary. [Screenshot / link]
 ## Repository Structure
 - `ab_testing.py` — full analysis script
 - `ab_test_summary.csv`, `ab_test_by_day.csv`, `ab_test_by_hour.csv` — outputs for Power BI
+- `marketing_AB.csv` — original file for code
 - `dashboard.pbix` — Power BI file
 - `README.md` — this file
 
