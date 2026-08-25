@@ -40,10 +40,6 @@ is not statistically distinguishable from random variation at this sample
 size — reporting them as "significant" without correction would overstate
 the finding.
 
-## Dashboard
-Interactive Power BI dashboard with KPI cards, day/hour breakdowns, and
-statistical result summary. [Screenshot / link]
-
 ## Repository Structure
 - `ab_testing.py` — full analysis script
 - `ab_test_summary.csv`, `ab_test_by_day.csv`, `ab_test_by_hour.csv` — outputs for Power BI
